@@ -1,3 +1,14 @@
+> install.packages("ape")
+Installing package into ‘C:/Users/katie/Documents/R/win-library/3.6’
+(as ‘lib’ is unspecified)
+trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/ape_5.4-1.zip'
+Content type 'application/zip' length 2858598 bytes (2.7 MB)
+downloaded 2.7 MB
+
+package ‘ape’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\katie\AppData\Local\Temp\RtmpWoDJY5\downloaded_packages
 > library("ape")
 > system(paste('"C:/Program Files (x86)/ClustalW2/clustalw2.exe" new.fas.txt'))
 
